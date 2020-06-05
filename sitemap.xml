@@ -3,11 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.mattkoinuk.com/categories/</loc>
+    <loc>https://www.mattkoinuk.com/</loc>
+    <lastmod>2020-06-05T23:45:20+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.mattkoinuk.com/</loc>
+    <loc>https://www.mattkoinuk.com/posts/</loc>
+    <lastmod>2020-06-05T23:45:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mattkoinuk.com/posts/third/</loc>
+    <lastmod>2020-06-05T23:45:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mattkoinuk.com/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2020-06-05T23:35:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mattkoinuk.com/categories/</loc>
   </url>
   
   <url>

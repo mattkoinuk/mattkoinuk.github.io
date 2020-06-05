@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Matt Ko in UK</title>
-    <link>https://www.mattkoinuk.com/</link>
-    <description>Recent content on Matt Ko in UK</description>
+    <title>Posts on Matt Ko in UK</title>
+    <link>https://www.mattkoinuk.com/posts/</link>
+    <description>Recent content in Posts on Matt Ko in UK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hant</language>
     <lastBuildDate>Fri, 05 Jun 2020 23:45:20 +0100</lastBuildDate>
     
-	<atom:link href="https://www.mattkoinuk.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.mattkoinuk.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
