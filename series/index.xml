@@ -6,40 +6,19 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Hugo Zzo Theme</title>
-    <link>https://www.mattkoinuk.com/</link>
-    <description>Recent content on Hugo Zzo Theme</description>
+    <title>Series on Hugo Zzo Theme</title>
+    <link>https://www.mattkoinuk.com/series/</link>
+    <description>Recent content in Series on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mattkoinuk@gmail.com (Matthew Ko)</managingEditor>
     <webMaster>mattkoinuk@gmail.com (Matthew Ko)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://www.mattkoinuk.com/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.mattkoinuk.com/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     
-      
-      
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
 
       
 
