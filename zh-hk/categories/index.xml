@@ -7,15 +7,15 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Matt Ko in UK 旅英紀錄</title>
-    <link>https://www.mattkoinuk.com/categories/</link>
+    <link>https://www.mattkoinuk.com/zh-hk/categories/</link>
     <description>Recent content in Categories on Matt Ko in UK 旅英紀錄</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>zh-hk</language>
     <managingEditor>mattkoinuk@gmail.com (Matthew Ko)</managingEditor>
     <webMaster>mattkoinuk@gmail.com (Matthew Ko)</webMaster>
     <copyright>&amp;copy; Matthew Ko {year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://www.mattkoinuk.com/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.mattkoinuk.com/zh-hk/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
