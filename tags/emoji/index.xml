@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>emoji on Matt Ko in UK 旅英紀錄</title>
+    <link>https://www.mattkoinuk.com/tags/emoji/</link>
+    <description>Recent content in emoji on Matt Ko in UK 旅英紀錄</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mattkoinuk@gmail.com (Matthew Ko)</managingEditor>
+    <webMaster>mattkoinuk@gmail.com (Matthew Ko)</webMaster>
+    <copyright>&amp;copy; Matthew Ko {year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://www.mattkoinuk.com/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Emoji Support</title>
+        <link>https://www.mattkoinuk.com/posts/emoji-support/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <author>mattkoinuk@gmail.com (Matthew Ko)</author>
+        <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
+        <guid>https://www.mattkoinuk.com/posts/emoji-support/</guid>
+        <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+        
+        <dc:creator>Kim</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>emoji</category>
+            
+          
+            
+              <category>gamoji</category>
+            
+          
+            
+              <category>namoji</category>
+            
+          
+            
+              <category>bamoji</category>
+            
+          
+            
+              <category>amoji</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
