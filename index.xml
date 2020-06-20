@@ -50,12 +50,7 @@
         <author>mattkoinuk@gmail.com (Matthew Ko)</author>
         <atom:modified>Sat, 20 Jun 2020 13:37:25 +0100</atom:modified>
         <guid>https://www.mattkoinuk.com/posts/markdown-syntax/</guid>
-        <description>Test of TOC line 1
-Line 2
-Sub heading line 3
-Line 4
-H4 heading line 5
-Line 6</description>
+        <description>Test of TOC line 1 Line 2 Sub heading line 3 Line 4 H4 heading line 5 Line 6</description>
         
         <dc:creator>Matthew Ko</dc:creator>
         
