@@ -33,6 +33,11 @@
   </url>
   
   <url>
+    <loc>https://www.mattkoinuk.com/categories/blogging/</loc>
+    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.mattkoinuk.com/categories/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
   </url>
@@ -48,6 +53,11 @@
   </url>
   
   <url>
+    <loc>https://www.mattkoinuk.com/categories/hugo/</loc>
+    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.mattkoinuk.com/tags/markdown/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
   </url>
@@ -58,17 +68,7 @@
   </url>
   
   <url>
-    <loc>https://www.mattkoinuk.com/categories/syntax/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.mattkoinuk.com/tags/themes/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.mattkoinuk.com/categories/themes/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,16 +83,6 @@
   </url>
   
   <url>
-    <loc>https://www.mattkoinuk.com/posts/third/</loc>
-    <lastmod>2020-06-05T23:45:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.mattkoinuk.com/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2020-06-05T23:35:54+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.mattkoinuk.com/tags/shortcode/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
   </url>
@@ -104,6 +94,16 @@
   
   <url>
     <loc>https://www.mattkoinuk.com/posts/markdown-syntax/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mattkoinuk.com/categories/syntax/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mattkoinuk.com/categories/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
@@ -124,11 +124,6 @@
   
   <url>
     <loc>https://www.mattkoinuk.com/tags/hugo/</loc>
-    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.mattkoinuk.com/categories/hugo/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
   </url>
   
@@ -173,53 +168,18 @@
   </url>
   
   <url>
-    <loc>https://www.mattkoinuk.com/categories/diagram/</loc>
-    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.mattkoinuk.com/posts/test-viz/</loc>
-    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.mattkoinuk.com/posts/test-wavedrom/</loc>
-    <lastmod>2019-11-18T18:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.mattkoinuk.com/posts/test-chartjs/</loc>
+    <lastmod>2019-11-18T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mattkoinuk.com/categories/diagram/</loc>
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.mattkoinuk.com/posts/test-js-sequence-diagrams/</loc>
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.mattkoinuk.com/tags/diagram/</loc>
-    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.mattkoinuk.com/posts/test-mermaid/</loc>
-    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.mattkoinuk.com/categories/math/</loc>
-    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.mattkoinuk.com/posts/test-mathjax/</loc>
-    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.mattkoinuk.com/posts/test-katex/</loc>
-    <lastmod>2019-11-15T12:00:06+09:00</lastmod>
   </url>
   
   <url>
