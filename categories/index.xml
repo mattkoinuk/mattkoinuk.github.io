@@ -23,84 +23,12 @@
 
       
       <item>
-        <title>blogging</title>
-        <link>https://www.mattkoinuk.com/categories/blogging/</link>
+        <title>hugo blogging</title>
+        <link>https://www.mattkoinuk.com/categories/hugo-blogging/</link>
         <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
         <author>mattkoinuk@gmail.com (Matthew Ko)</author>
         
-        <guid>https://www.mattkoinuk.com/categories/blogging/</guid>
-        <description></description>
-        
-        <dc:creator>Matthew Ko</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>hugo</title>
-        <link>https://www.mattkoinuk.com/categories/hugo/</link>
-        <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
-        <author>mattkoinuk@gmail.com (Matthew Ko)</author>
-        
-        <guid>https://www.mattkoinuk.com/categories/hugo/</guid>
-        <description></description>
-        
-        <dc:creator>Matthew Ko</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>syntax</title>
-        <link>https://www.mattkoinuk.com/categories/syntax/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>mattkoinuk@gmail.com (Matthew Ko)</author>
-        
-        <guid>https://www.mattkoinuk.com/categories/syntax/</guid>
-        <description></description>
-        
-        <dc:creator>Matthew Ko</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>themes</title>
-        <link>https://www.mattkoinuk.com/categories/themes/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>mattkoinuk@gmail.com (Matthew Ko)</author>
-        
-        <guid>https://www.mattkoinuk.com/categories/themes/</guid>
-        <description></description>
-        
-        <dc:creator>Matthew Ko</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>diagram</title>
-        <link>https://www.mattkoinuk.com/categories/diagram/</link>
-        <pubDate>Mon, 18 Nov 2019 12:00:06 +0900</pubDate>
-        <author>mattkoinuk@gmail.com (Matthew Ko)</author>
-        
-        <guid>https://www.mattkoinuk.com/categories/diagram/</guid>
+        <guid>https://www.mattkoinuk.com/categories/hugo-blogging/</guid>
         <description></description>
         
         <dc:creator>Matthew Ko</dc:creator>
